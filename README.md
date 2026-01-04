@@ -53,12 +53,14 @@ https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Text
 *Liberation Sans is the default font to encourage this.*
 
 
-### Print
+### Prints
 
-#### Version 01
+#### Print 01
+
+Design version 01
+Stopped before finished
 
 Printed with a snapmaker 2.0
-
 Printing done with readily available materials
 
 ##### Slicer settings
@@ -79,15 +81,34 @@ Settings:
 - Fan Speed: 100
 
 
-#### Version 02
+#### Print 02
 
-See details version 01
+Design 02
+Stopped before finished
 
-#### Version 03
+Settings:
+See print 01
+
+#### Print 03
 
 ##### Slicer settings
 
-See version 01
+Design 03
+Finished
+
+Settings:
+See print 01
 
 Change:
 - Speed: Medium
+
+#### Print 04
+
+Design 04
+
+Settings:
+See print 01
+- Speed: Medium
+- Layer Height : Medium
+- Model Structure : Medium
+
