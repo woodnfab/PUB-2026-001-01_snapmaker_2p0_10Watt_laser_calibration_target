@@ -4,6 +4,11 @@
 
 OpenSCAD model for a snapmaker 2.0 / 350T 10Watt laser calibration target.
 
+I have bought a used snapmaker 2.0 printer. It was missing this calibration target. 
+
+It's also possible to contact snapmaker support to get it as a spare part.
+
+
 ### Some links on the topic.
 
 Manual
@@ -16,7 +21,7 @@ Issue
 
 The OpenSCAD model is made with ChatGPT.
 
-It also might be somewhat over engineerd. But it's also about leanring OpenSCAD and how to design something with it
+It also might be somewhat over-engineered. But it's also about learning OpenSCAD and how to design something with it. So the honeycomb pattern on the bottom is just for esthetics.
 
 
 ### Version
