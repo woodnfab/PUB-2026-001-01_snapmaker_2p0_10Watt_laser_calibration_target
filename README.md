@@ -88,17 +88,17 @@ Settings:
 Design 02
 Stopped before finished
 
-Settings:
+##### Slicer settings
+
 See print 01
 
 #### Print 03
 
+Design 03
+Print completed
+
 ##### Slicer settings
 
-Design 03
-Finished
-
-Settings:
 See print 01
 
 Change:
@@ -109,8 +109,11 @@ Change:
 
 Design 04
 
-Settings:
+##### Slicer settings
+
 See print 01
+
+Change:
 - Speed: Medium
 - Layer Height : Medium
 - Model Structure : Medium
