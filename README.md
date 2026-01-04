@@ -28,21 +28,21 @@ It also might be somewhat over-engineered. But it's also about learning OpenSCAD
 
 ### Version
 
-#### 01
+#### 01:
 
 Initial version.
 
 Problem:
 - The honeycomb pattern on the bottom was not very nice. 
 
-#### 02
+#### 02:
 
 Changes:
 - Changed depth of text to 0.3
 - has a solid border on the bottom
 - use library for honeycomb pattern
 
-#### 03
+#### 03:
 
 Changes:
 - Increased the honeycomb cell size and the line width
