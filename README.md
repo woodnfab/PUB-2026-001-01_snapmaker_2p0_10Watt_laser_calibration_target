@@ -4,7 +4,7 @@
 
 OpenSCAD model for a snapmaker 2.0 / 350T 10Watt laser calibration target.
 
-## Some links on the topic.
+### Some links on the topic.
 
 Manual
 - https://support.snapmaker.com/hc/en-us/articles/4420631317783-3-3-axis-Operations
@@ -12,16 +12,17 @@ Manual
 Issue
 - https://forum.snapmaker.com/t/10w-laser-calibration-target-missing/29052
 
+## Background
+
 The OpenSCAD model is made with ChatGPT
 
-
-# Print
+## Print
 
 Printed with a snapmaker 2.0
 
 Printing done with readily available materials
 
-## Slicer settings
+### Slicer settings
 
 - Layer Height:  Fine
 - Speed: Slow
@@ -29,7 +30,7 @@ Printing done with readily available materials
 - Support: None
 - Adhesion Type: Skirt
 
-## Filament
+### Filament
 
 - eSUN: PLA blue
 
