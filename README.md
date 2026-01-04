@@ -14,15 +14,41 @@ Issue
 
 ## Background
 
-The OpenSCAD model is made with ChatGPT
+The OpenSCAD model is made with ChatGPT.
 
-## Print
+It also might be somewhat over engineerd. But it's also about leanring OpenSCAD and how to design something with it
+
+
+### Version
+
+#### 01
+
+Initial version.
+
+Problem:
+- The honeycomb pattern on the bottom was not very nice. 
+
+#### 02
+
+Updated version
+
+Changes:
+- Changed depth of text to 0.3
+- has a solid border on the bottom
+- use library for honeycomb pattern
+
+
+
+
+### Print
+
+#### Version 01
 
 Printed with a snapmaker 2.0
 
 Printing done with readily available materials
 
-### Slicer settings
+##### Slicer settings
 
 - Layer Height:  Fine
 - Speed: Slow
@@ -30,7 +56,7 @@ Printing done with readily available materials
 - Support: None
 - Adhesion Type: Skirt
 
-### Filament
+##### Filament
 
 - eSUN: PLA blue
 
@@ -40,3 +66,6 @@ Settings:
 - Fan Speed: 100
 
 
+#### Version 02
+
+See details version 01
