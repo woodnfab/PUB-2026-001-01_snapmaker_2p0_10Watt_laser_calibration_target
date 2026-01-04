@@ -35,14 +35,22 @@ Problem:
 
 #### 02
 
-Updated version
-
 Changes:
 - Changed depth of text to 0.3
 - has a solid border on the bottom
 - use library for honeycomb pattern
 
+#### 03
 
+Changes:
+- Increased the honeycomb cell size and the line width
+- Changed the font to bold
+
+Notes:
+- OpenSCAD uses default Liberation Sans.  
+See:
+https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Text
+*Liberation Sans is the default font to encourage this.*
 
 
 ### Print
@@ -74,3 +82,12 @@ Settings:
 #### Version 02
 
 See details version 01
+
+#### Version 03
+
+##### Slicer settings
+
+See version 01
+
+Change:
+- Speed: Medium
