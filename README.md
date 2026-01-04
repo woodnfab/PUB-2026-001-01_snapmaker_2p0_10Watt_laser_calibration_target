@@ -104,6 +104,10 @@ See print 01
 Change:
 - Speed: Medium
 
+##### Analysis
+
+Text isn't readable. Print is about 0.2 mm to thick. Not sure if the z-axis calibration of the printer is fully optimized. Also haven't done any reference printing yet.
+
 
 #### Print 04
 
