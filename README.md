@@ -25,24 +25,25 @@ The OpenSCAD model is made with ChatGPT.
 
 It also might be somewhat over-engineered. But it's also about learning OpenSCAD and how to design something with it. So the honeycomb pattern on the bottom is just for esthetics.
 
+----
 
-### Versions
+## Versions
 
-#### Version 01
+### Version 01
 
 Initial version.
 
 Problem:
 - The honeycomb pattern on the bottom was not very nice. 
 
-#### Version 02
+### Version 02
 
 Changes:
 - Changed depth of text to 0.3
 - has a solid border on the bottom
 - use library for honeycomb pattern
 
-#### Version 03
+### Version 03
 
 Changes:
 - Increased the honeycomb cell size and the line width
@@ -55,17 +56,19 @@ https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Text
 *Liberation Sans is the default font to encourage this.*
 
 
-### Prints
+## Prints
 
-#### Print 01
-
-Design version 01
-Stopped before finished
-
-Printed with a snapmaker 2.0
+Printed with a snapmaker 2.0  
 Printing done with readily available materials
 
-##### Slicer settings
+### Print 01
+
+Design version 01  
+Stopped before finished
+
+
+
+#### Slicer settings
 
 - Layer Height:  Fine
 - Speed: Slow
@@ -73,7 +76,7 @@ Printing done with readily available materials
 - Support: None
 - Adhesion Type: Skirt
 
-##### Filament
+#### Filament
 
 - eSUN: PLA blue
 
@@ -83,37 +86,40 @@ Settings:
 - Fan Speed: 100
 
 
-#### Print 02
+### Print 02
 
-Design 02
+Design 02  
 Stopped before finished
 
-##### Slicer settings
+#### Slicer settings
 
 See print 01
 
-#### Print 03
+### Print 03
 
 Design 03
 Print completed
 
-##### Slicer settings
+#### Slicer settings
 
 See print 01
 
 Change:
 - Speed: Medium
 
-##### Analysis
+#### Analysis
 
-Text isn't readable. Print is about 0.2 mm to thick. Not sure if the z-axis calibration of the printer is fully optimized. Also haven't done any reference printing yet.
+- Text isn't readable.
+- Print is about 0.2 mm to thick.
+- Not sure if the z-axis calibration of the printer is fully optimized.
+- Also haven't done any other reference printing yet to check accuracy.
 
 
-#### Print 04
+### Print 04
 
 Design 04
 
-##### Slicer settings
+#### Slicer settings
 
 See print 01
 
