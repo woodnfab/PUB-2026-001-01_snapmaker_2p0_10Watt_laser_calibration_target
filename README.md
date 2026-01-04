@@ -10,3 +10,29 @@ Issue
 - https://forum.snapmaker.com/t/10w-laser-calibration-target-missing/29052
 
 The OpenSCAD model is made with ChatGPT
+
+
+# Print
+
+Printen with a snapmaker 2.0
+
+Printing done with readily available materials
+
+## Slicer settings
+
+- Layer Height:  Fine
+- Speed: Slow
+- Model structure: Medium
+- Support: None
+- Adhesion Type: Skirt
+
+## Filament
+
+- eSUN: PLA blue
+
+Settings:
+- Printing Temperature: 205
+- Build plate temperature: 50
+- Fan Speed: 100
+
+
