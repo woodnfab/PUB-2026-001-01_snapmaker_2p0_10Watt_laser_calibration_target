@@ -14,7 +14,7 @@ The OpenSCAD model is made with ChatGPT
 
 # Print
 
-Printen with a snapmaker 2.0
+Printed with a snapmaker 2.0
 
 Printing done with readily available materials
 
