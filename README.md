@@ -56,6 +56,18 @@ https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Text
 *Liberation Sans is the default font to encourage this.*
 
 
+### Version 04
+
+Changes:
+- Removed text
+- made gab between honeycomb holes larger
+
+Notes:
+- OpenSCAD uses default Liberation Sans.  
+See:
+https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Text
+*Liberation Sans is the default font to encourage this.*
+
 ## Prints
 
 Printed with a snapmaker 2.0  
@@ -117,7 +129,7 @@ Change:
 
 ### Print 04
 
-Design 04
+Design 03
 
 #### Slicer settings
 
@@ -127,4 +139,27 @@ Change:
 - Speed: Medium
 - Layer Height : Medium
 - Model Structure : Medium
+
+### Print 05
+
+Design 04
+
+#### Slicer settings
+
+Use profile: Precise & Strong
+
+- Layer Height 0.10 mm
+- Initial Layer Height 0.20 mm
+
+Print time about 2 hours
+
+See for slicer details  
+https://wiki.snapmaker.com/en/Snapmaker_Luban/3d_maintoolbar_parameters
+
+#### Analysis
+
+Still to thick, measurement shows 2.3 mm.  
+The z-axis calibration might be a little bit off but not that much.
+
+
 
